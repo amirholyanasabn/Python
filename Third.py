@@ -5,4 +5,4 @@ width = int (input('Enter width : '))#گرفتن عرض از کاربر
 #print("area is : "+area+" perimeter is "+perimeter)
 area = width * length
 perimeter = (width + length)* 2
-print('area is ',area,' perimeter is',perimeter)
+print('area is ',area,' perimeter is',perimeter,' .')
